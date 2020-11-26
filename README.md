@@ -1,7 +1,9 @@
 # autotablechess
 a project i am working on for Estic 2019 <br>
-Physical chess board integration with [lichess](https://lichess.org/) <br>
+Physical chess board integration with [lichess](https://lichess.org/) 
 [Lichess Public API](https://lichess.org/api)
+
+<br>
 <br>
 
 ![Intro](https://cdn.discordapp.com/attachments/349217421082755075/754061221912903700/unknown.png)
